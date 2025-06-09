@@ -7,7 +7,7 @@
 
 🚀 Currently enhancing my skills in:
 - Spring Boot & Microservices
-- Cloud Native Development (AWS/Docker)
+- Spring Cloud
 - Spring Security
 
 ### 🛠️ My Tech Stack 
