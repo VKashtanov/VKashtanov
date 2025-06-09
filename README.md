@@ -3,7 +3,7 @@
 </a>
 
 # Hi there! 👋 
-👨‍💻 I'm Viktor, a Java Backend Developer specializing in Spring ecosystem.
+👨‍💻 I'm Viktor, a Java Backend Developer specializing in Java and Spring ecosystem.
 
 🚀 Currently enhancing my skills in:
 - Spring Boot & Microservices
