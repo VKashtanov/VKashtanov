@@ -3,12 +3,12 @@
 </a>
 
 # Hi there! 👋 
-👨‍💻 I'm Viktor, a passionate Java Backend Developer specializing in Spring ecosystem. I build high-performance, scalable applications with clean architecture.
+👨‍💻 I'm Viktor, a Java Backend Developer specializing in Spring ecosystem.
 
 🚀 Currently enhancing my skills in:
 - Spring Boot & Microservices
 - Cloud Native Development (AWS/Docker)
-- System Design & Optimization
+- Spring Security
 
 ### 🛠️ My Tech Stack 
 
